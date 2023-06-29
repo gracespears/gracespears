@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gracespears!
-- 👀 I’m interested in DATA ANALYSIS and UX/UI DESIGN 
-- 🌱 I’m currently learning SQL, FIGMA, and ADOBE XD. 
-- 💞️ I’m looking to land a tech job! 
+- 👀 I’m interested in DATA ANALYSIS, UX/UI DESIGN, and GRAPHIC DESIGN
+- 🌱 I’m currently learning SQL, FIGMA, and TABLEAU
+- 💞️ I’m looking to land a new job!
 - 📫 How to reach me gracespears.ai@gmail.com 
 
 <!---
