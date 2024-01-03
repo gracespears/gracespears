@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gracespears!
 -  💞️ I’m interested in WEB DEVELOPMENT, UX/UI DESIGN, and GRAPHIC DESIGN
 - 🌱 I’m currently learning JAVASCRIPT, REACT, and FIGMA
-- 👀 I’m looking to land a new job!
+- 👀 I’m looking to switch careers.
 - 📫 How to reach me: gracespears.ai@gmail.com 
 
 <!---
